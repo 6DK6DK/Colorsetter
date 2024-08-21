@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\Brendan\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.autoComplete.extraPaths": [
+        "E:\\Program Files\\Microsoft VS Code\\blender_autocomplete\\2.90"
+    ],
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.append('E:\\Program Files\\Microsoft VS Code\\blender_autocomplete\\2.90')"
+    ],
+    "hexdump.littleEndian": false,
+}
